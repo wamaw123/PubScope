@@ -1,7 +1,7 @@
 @charset "utf-8";
 .ep-impactfactor-container{
 	display: block;
-	background: #f3f9d2;*/
+	background: #c7edf0;*/
 	/* border: 1px solid #cae8b6; */
 	/* -webkit-border-radius:10px; */
 	border-radius:3px;
@@ -126,7 +126,7 @@
     text-align: center;
     cursor: pointer;
     border-radius: 0.25rem;
-	background-color: #f3f9d2;
+	background-color: #c7edf0;
 	color: #0076aa;
 	font-size: 14px;
 	font-weight: 600;
